@@ -1,0 +1,9 @@
+/target/
+/src/test/
+
+.project
+.settings
+.classpath
+.git
+
+plot.png
